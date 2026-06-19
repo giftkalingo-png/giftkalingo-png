@@ -15,10 +15,10 @@ I am a systems-oriented **IT Infrastructure Expert** and **System Administrator*
 
 ---
 
-### 📂 Featured Open-Source Blueprints (Sanitized)
+### 📂 Featured Open-Source Blueprints 
 
-https://github.com/giftkalingo-png/Automated-Intake-Pipeline): A collection of generic scripts utilizing webhooks and APIs to automatically map and route data anomalies directly into project management tools like Jira.
- Custom data cleaning and validation scripts designed to audit massive raw data sets, strip formatting errors, and enforce strict technical consistency before client delivery.
+*   **[Automated Intake Pipeline](https://github.com/giftkalingo-png/Automated-Intake-Pipeline)**: A collection of generic scripts utilizing webhooks and APIs to automatically map and route data anomalies directly into project management tools like Jira.
+*   **[Data Integrity Analysis Engine](https://github.com/giftkalingo-png/Data-Integrity-Analysis-Engine)**: Custom data cleaning and validation scripts designed to audit massive raw data sets, strip formatting errors, and enforce strict technical consistency before client delivery.
 
 ---
 
