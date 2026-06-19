@@ -17,8 +17,8 @@ I am a systems-oriented **IT Infrastructure Expert** and **System Administrator*
 
 ### 📂 Featured Open-Source Blueprints (Sanitized)
 
-*   **[Workflow-Automation-Hub](#)**: A collection of generic scripts utilizing webhooks and APIs to automatically map and route data anomalies directly into project management tools like Jira.
-*   **[Data-Integrity-Scripts](#)**: Custom data cleaning and validation scripts designed to audit massive raw data sets, strip formatting errors, and enforce strict technical consistency before client delivery.
+https://github.com/giftkalingo-png/Automated-Intake-Pipeline): A collection of generic scripts utilizing webhooks and APIs to automatically map and route data anomalies directly into project management tools like Jira.
+ Custom data cleaning and validation scripts designed to audit massive raw data sets, strip formatting errors, and enforce strict technical consistency before client delivery.
 
 ---
 
