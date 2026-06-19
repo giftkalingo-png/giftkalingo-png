@@ -1,6 +1,6 @@
 # Hi there, I am Gift Kalingo — IT Infrastructure & Operations Expert 🚀
 
-I am a systems-oriented **Power User** and **System Administrator** focused on workflow architecture, data integrity, and efficiency. I bridge the gap between complex client data and operational execution by building automated pipelines, creating advanced data tools, and troubleshooting hardware/software ecosystems.
+I am a systems-oriented **IT Expert** and **System Administrator** focused on workflow architecture, data integrity, and efficiency. I bridge the gap between complex client data and operational execution by building automated pipelines, creating advanced data tools, and troubleshooting hardware/software ecosystems.
 
 I am a systems-oriented **IT Infrastructure Expert** and **System Administrator** focused on workflow architecture, data integrity, and efficiency. I bridge the gap between complex client data and operational execution by building automated pipelines, creating advanced data tools, and troubleshooting hardware/software ecosystems.
 
