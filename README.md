@@ -23,5 +23,5 @@ I am a systems-oriented **IT Infrastructure Expert** and **System Administrator*
 ---
 
 ### 📈 Let's Connect
-*   **Availability:** Consistent Monday–Friday availability aligned with **US Business Hours (EST)**.
+*   **Availability:** Consistent Monday–Friday availability aligned with **Global Business Hours**.
 *   **Focus:** Open to specialized Technical Operations, QA Lead, and Systems-focused project management roles.
