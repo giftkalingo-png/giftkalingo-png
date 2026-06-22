@@ -1,8 +1,11 @@
 # Hi there, I am Gift Kalingo — IT Infrastructure & Operations Expert 🚀
+I am a technical specialist operating at the intersection of **Core IT Infrastructure** and **Advanced Data Engineering**. My background spans the entire systems lifecycle—evolving from managing robust IT Infrastructure, networks, and system administration frameworks to building high-performance data pipelines and custom software automation engines.
 
-I am a systems-oriented **IT Expert** and **System Administrator** focused on workflow architecture, data integrity, and efficiency. I bridge the gap between complex client data and operational execution by building automated pipelines, creating advanced data tools, and troubleshooting hardware/software ecosystems.
+* **🛠️ Current Architecture Focus:** Engineering end-to-end automated pipelines utilizing cloud-native databases, event-driven scripting, and structured spreadsheets to seamlessly ingest, sanitize, and warehouse critical operational data, while deploying decoupled semantic reporting layers for enterprise dashboards.
+* **🐍 Data Wrangling & Scalability:** Highly proficient in modern object-oriented programming frameworks, vectorized data structures, and in-process analytical database engines. I specialize in transforming messy, high-volume raw inputs into clean, statistically stable data ecosystems without compromising local environment performance or triggering out-of-memory crashes.
+* **⚙️ The Engineering Philosophy:** Whether optimizing underlying server workflows or writing data-cleaning scripts, my goal is always to maximize compute efficiency, enforce strict datatype integrity, and protect production infrastructure from downstream analytical lag.
 
-I am a systems-oriented **IT Infrastructure Expert** and **System Administrator** focused on workflow architecture, data integrity, and efficiency. I bridge the gap between complex client data and operational execution by building automated pipelines, creating advanced data tools, and troubleshooting hardware/software ecosystems.
+---
 
 ---
 
